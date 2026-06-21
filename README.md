@@ -30,7 +30,7 @@ When I'm not securing systems, I leverage technical skills for high-end digital 
 ---
 
 ### 📈 GitHub Stats
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark)
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=[abhayydev]&show_icons=true&theme=dark)
 ---
 
 ### 📫 Connect with Me
